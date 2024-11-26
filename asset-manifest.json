@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SardarTravelscom/static/css/main.882fec3f.css",
+    "main.js": "/SardarTravelscom/static/js/main.4005e16d.js",
+    "static/media/des5.jpg": "/SardarTravelscom/static/media/des5.16a5e4bb6d3c21765749.jpg",
+    "static/media/fly.png": "/SardarTravelscom/static/media/fly.9d810a32f02d61d03c15.png",
+    "index.html": "/SardarTravelscom/index.html",
+    "main.882fec3f.css.map": "/SardarTravelscom/static/css/main.882fec3f.css.map",
+    "main.4005e16d.js.map": "/SardarTravelscom/static/js/main.4005e16d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.882fec3f.css",
+    "static/js/main.4005e16d.js"
+  ]
+}

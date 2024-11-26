@@ -73,7 +73,7 @@ function Navbar() {
 
     return (
         <>
-            <nav className='fixed m-4 top-0 right-0 left-0 shadow-lg z-50 p-2 bg-gradient-to-r from-teal-400 to-blue-500 hover:from-pink-500 hover:to-orange-500 '>
+            <nav className='fixed m-4 top-0 right-0 left-0 shadow-lg z-50 p-2 bg-gradient-to-r from-teal-400 to-blue-500 hover:from-green-500 hover:to-blue-500 '>
                 <div className='container px-4 flex justify-between items-center h-16'>
                     <h3 className='text-2xl font-bold text-white p-2  flex gap-3 '>Sardar Travel 
                     <img src={Image} alt="" className=' flex w-6 h-7 justify-between items-center' />
